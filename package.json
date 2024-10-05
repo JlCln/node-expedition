@@ -1,0 +1,16 @@
+{
+    "name": "some_incredible_expedition",
+  "version": "1.0.0",
+  "description": "the cow quest!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JlCln",
+  "license": "ISC",
+  "dependencies": {
+        "cowsay": "^1.6.0",
+    "dotenv": "^16.4.5"
+  }
+}
